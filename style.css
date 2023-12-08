@@ -1,0 +1,66 @@
+.mx-auto {
+    width: 800px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+body {
+    background-color: rgb(124, 173, 17);
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: #212529;
+    border-color: #ffc107;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #000000;
+    border-color: #dc3545;
+}
+
+.card-header {
+    padding: 10px 15px;
+    background-color:   #b616e3;
+    border-bottom: 1px solid #ddd;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.mb-3 {
+    margin-bottom: 1.5rem;
+}
+
+.col-sm-2,
+.col-sm-10 {
+    position: relative;
+    width: 100%;
+    padding: 0 15px;
+}
+
+.col-sm-2 {
+    float: left;
+}
+
+.col-sm-10 {
+    float: right;
+}
+
+.btn-primary {
+    background-color:   #007bff;
+    color: #fff;
+    border-color: #007bff;
+}
